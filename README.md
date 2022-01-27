@@ -32,5 +32,8 @@ make run
 ```
 
 <p align="center">
-   Result<img src="
+   Result<img src="https://github.com/Bayu12345677/Base64_encode/blob/main/img/Screenshot_20220127-231131~2.png">
+</p>
+
+
 `happy try`
