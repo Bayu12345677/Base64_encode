@@ -1,6 +1,8 @@
 @import util/IO.SYSTEM.COMMAND
 Namespace.self: util/IO.SYSTEM.VAR
 
+# original file : https://github.com/niieani/bash-oo-framework
+
 declare __declaration_type ## for Variable::ExportDeclarationAndTypeToVariables (?)
 
 Variable::Exists() {
