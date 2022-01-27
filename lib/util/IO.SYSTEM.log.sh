@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# author : Bayu riski (speedrun)
 Bash.import: text_display/IO.ECHO
 Bash.import: util/IO.TYPE
 
