@@ -20,13 +20,12 @@ apt-get install git
 git clone https://github.com/Bayu12345677/Base64_encode
 ```
 
-> setup
+- `setup`
 ```bash
 cd Base64_encode
 make install
 ```
-
-> running
+- `running`
 ```bash
 make run
 ```
@@ -34,6 +33,6 @@ make run
 <p align="center">
    Result<img src="https://github.com/Bayu12345677/Base64_encode/blob/main/img/Screenshot_20220127-231131~2.png">
 </p>
-
+<br>
 
 `happy try`
