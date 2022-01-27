@@ -1,5 +1,5 @@
 # no dependencies
-
+# original source : https://github.com/niieani/bash-oo-framework
 Command::GetType() {
   local name="$1"
   local typeMatch=$(type -t "$name" 2> /dev/null || true)
