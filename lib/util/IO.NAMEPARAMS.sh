@@ -1,4 +1,4 @@
-
+# original source : https://github.com/niieani/bash-oo-framework
 @import util/IO.SYSTEM.VAR
 
 # depends on modules: variable, exception
