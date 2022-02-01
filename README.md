@@ -3,7 +3,7 @@
 </p>
 
 [![](https://img.shields.io/static/v1?logo=dash&label=code&message=open%20source&color=green)](https://github.com/Bayu12345677)
-[![](https://img.shields.io/static/v1?logo=whatsapp&label=call%20me&message=whatsapp&color=yellow)](https://chat.whatsapp.com/GxUnM7xAJyU7A0YYcjpnL0)
+[![](https://img.shields.io/static/v1?logo=whatsapp&label=chat%20on&message=whatsapp&color=yellow)](https://chat.whatsapp.com/GxUnM7xAJyU7A0YYcjpnL0)
 
 
 where to secure our code source using base64 <br><br>
